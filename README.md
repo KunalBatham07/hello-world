@@ -1,1 +1,4 @@
-This is for design pattern for project
+This is for design pattern for project ----just started
+creational
+structural
+behavioural
