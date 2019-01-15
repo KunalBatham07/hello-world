@@ -1,0 +1,6 @@
+--2018-09-20 22:43:14--  http://wget/
+Resolving wget (wget)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘wget’
+--2018-09-20 22:43:24--  http://apache.mirrors.ionfish.org/tomcat/tomcat-8/v8.5.5/bin/apache-tomcat-8.5.5.tar.gz
+Resolving apache.mirrors.ionfish.org (apache.mirrors.ionfish.org)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘apache.mirrors.ionfish.org’
